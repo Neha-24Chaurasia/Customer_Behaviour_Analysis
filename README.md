@@ -40,9 +40,7 @@ An end-to-end data analytics project that explores retail customer spending habi
 ---
 
 ## 📈 Dashboard
-*(Tip: Take a screenshot of your Power BI dashboard, save it as `dashboard_preview.png` inside your `dashboard/` folder, and keep the line below)*
-
-![Customer Shopping Behaviour Dashboard](dashboard/dashboard_preview.png)
+PowerBi dashboard is available in file which is uploaded...
 
 ---
 
